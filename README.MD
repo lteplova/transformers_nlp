@@ -20,6 +20,8 @@
          * ipynb  
       * Решение задачи с использованием transformers  
          * ipynb
+      * метрика F1-score с макро-усреднением по классам  
+
 4. Задача распознавания текста называется Optical Caracter Recognition (OCR). OCR + Spell Correction
       * данные
       * ipynb
