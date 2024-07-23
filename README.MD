@@ -2,7 +2,8 @@
 
 1. Простейшая полносвязная нейронная сеть на pytorch.  
     * [01]pytorch_foundation.ipynb  
-    * датасет CIFAR10, 10 классов,  
+    * датасет CIFAR10  
+    * задача классификации, 10 классов  
     * метрика Accuracy
     * используется `torch`, `torchvision.datasets`, `torch.utils`, `matplotlib`, loss and optimizer: `CrossEntropyLoss`, `Adam`
 
@@ -14,5 +15,11 @@
       * метрика F1
       * используется `transformers huggingface`, `API trainer`, `nltk`, `seaborn`  
 
-3. 
-4.
+3. Named Entity Recognition for LitBank corpus, [соревнование](https://www.kaggle.com/competitions/litbank-ner-2024)  
+      * Решение задачи без использования transformers  
+         * ipynb  
+      * Решение задачи с использованием transformers  
+         * ipynb
+4. Задача распознавания текста называется Optical Caracter Recognition (OCR). OCR + Spell Correction
+      * данные
+      * ipynb
